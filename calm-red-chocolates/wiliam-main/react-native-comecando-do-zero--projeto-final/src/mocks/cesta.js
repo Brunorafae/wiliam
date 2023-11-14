@@ -24,24 +24,28 @@ const cesta = {
       {
         nome: "Quadro Rick And Mory",
         imagem: tomate,
+        botao: "Comprar"
       },
             {
         nome: "Quadro GTR R34",
         imagem: brocolis,
+         botao: "Comprar"
       },
       {
         nome: "Quadro GTR R35",
         imagem: batata,
+         botao: "Comprar"
       },
       {
         nome: "Quadro Baby Yoda",
         imagem: pepino,
+         botao: "Comprar"
       },
       {
         nome: "Quadro GTR R34 Retro",
         imagem: abobora,
+         botao: "Comprar"
       }
-
     ]
   }
 }
